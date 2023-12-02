@@ -56,10 +56,10 @@ const Head = () => {
     <section  >
       {/* PRINCIPAL*/}
       <div className='fixed top-3 left-6 h-[42rem] md:w-[67rem] bg-purple-600 shadow-lg rounded-2xl flex items-center justify-center' >
-        <img src='src\assets\robot.png' alt='Robot' className='max-w-full h-full'  style={mainSectionStyles} />
+        <img src='/assets/robot.png' alt='Robot' className='max-w-full h-full'  style={mainSectionStyles} />
         <div className='fixed left-3 bottom-3 bg-black opa rounded-xl md:h-[23rem] md:w-[27rem] p-4'>
           <div className=' bg-gray-500'>				
-					  <img src='src\assets\logo.png' alt='logo' className='md:h-[14rem] md:w-[27rem] p-0 m-0 ' />
+					  <img src='/assets/logo.png' alt='logo' className='md:h-[14rem] md:w-[27rem] p-0 m-0 ' />
           </div>
 
 					<br></br>
